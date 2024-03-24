@@ -1,5 +1,3 @@
-Sure, here's your text with markdown formatting for better readability:
-
 # Data Analysis Project by David Skaff and Jasleen Brar
 Our project focused on analyzing crowdfunding data, and we’ve broken down our process into four main parts.
 
